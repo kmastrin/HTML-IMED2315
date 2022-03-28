@@ -1,3 +1,18 @@
 @charset "utf-8";
 /* CSS Document */
 
+body {
+	background-color:#EAAEDB;
+}
+
+nav {
+	text-align: center;
+}
+
+header {
+	color:#2D2B2B;
+}
+
+h1 {
+	text-align: center;
+}
