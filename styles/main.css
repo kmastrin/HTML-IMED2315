@@ -1,17 +1,24 @@
 @charset "utf-8";
 /* CSS Document */
 
-body {
-	background-color:#EAAEDB;
+.flex-container {
+	display: flex;
+	justify-content: flex-end;
 }
 
+.flex-container {
+	width:500px;
+	margin-top:20px;
+	margin-left:400px;
+}
 nav {
-	text-align: center;
+	text-align: right;
 }
 
 header {
 	color:#2D2B2B;
-}
+	text-align: center;
+	}
 
 h1 {
 	text-align: center;
